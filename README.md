@@ -1,6 +1,6 @@
 # My Discrete Math Repository
 
-## Homework 2 - 202655### (Your ID) HONG GIL DONG
+## Homework 2 - 202655327 (Your ID) HONG GIL DONG
 
 ### 2.1 Equation Editing
 | # | text | formula |
